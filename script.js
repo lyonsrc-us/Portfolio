@@ -23,7 +23,4 @@ form.addEventListener('submit', (e) => {
     }
   });
 
-  if (!found) {
-    alert('No results found. Try "about", "work", or "contact".');
-  }
 });
